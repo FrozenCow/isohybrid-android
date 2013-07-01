@@ -1,0 +1,6 @@
+[submodule "e2fsprogs"]
+	path = e2fsprogs
+	url = https://android.googlesource.com/platform/external/e2fsprogs
+[submodule "syslinux"]
+	path = syslinux
+	url = git://git.kernel.org/pub/scm/boot/syslinux/syslinux.git
